@@ -38,7 +38,7 @@ Step 9: Commit and push the resulting change to your Github account
 *At the end of part two I used `rm -r lab7` to delete the directory on the ieng6 account and deleted the fork I created this time on `Github`.
 
 
-## Part 1: Edit lab7 based on `SSH`
+## Part 2: Edit lab7 based on `SSH`
 step 1-3 are the preparations to clean and recreate the fork
 
 Step 4: Log into ieng6
